@@ -1,0 +1,438 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:17:1-64:12
+INJECTED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:17:1-64:12
+INJECTED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:17:1-64:12
+INJECTED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:17:1-64:12
+MERGED from [androidx.databinding:databinding-adapters:8.10.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\48401ae8320f6698cc8f26ee655df00e\transformed\databinding-adapters-8.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-ktx:8.10.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\59fc4b39a96dd2b5443addfa44254533\transformed\jetified-databinding-ktx-8.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:8.10.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\2677e6f0a0a0959a55f4c5bb95993e67\transformed\databinding-runtime-8.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:8.10.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\c3311def82b225fd474b3acc7390549e\transformed\jetified-viewbinding-8.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\9f22cfec9c97cc2f0fbcf56034e0dd23\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\f8ad13114bd711b3e721f194cee70426\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\4e3c8f3af897b20ad1dab7fa41ff2437\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\01ee066a187e3faf8fdb9f22b688cbd8\transformed\navigation-ui-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1e3a25f6e9e672391a8b911890573cf8\transformed\navigation-ui-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\57c8b7be9de44cda0af9792e67b6200c\transformed\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-view:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\95d3377484eaad89ba4f25abedecdfc4\transformed\jetified-camera-view-1.1.0-beta03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\c46b7471018913cab4de46e5b572fab2\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\92742c05da82441e53f30b0b176f1291\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\5acaed6e271ec8c8cf0bb9bffc0c3316\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\a02a2b3582249e57e59fb51c2eaeb97c\transformed\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\37e949600e9540b4643c81f28cc8d1f3\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\4c9981a42ff7cc653e7fb657cf4b5fc4\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\3bd7021b891e23481061c15ea3d15b2e\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\39f42b2732ef917df058284b2d364558\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\5cb811c9fd9b61edbdf8f13ba3c43e42\transformed\jetified-camera-lifecycle-1.1.0-beta03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1510b2bb34cce64a6ec06ac17caa0e8e\transformed\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\346a807ae0475b4d8050a8d1da5e826b\transformed\jetified-lifecycle-livedata-core-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\b12e3c88deb7dae501228661d38fbb6b\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\87b72628560faa077ce03f4a48f4ccd2\transformed\jetified-lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\d9b2b6b242c33ba45fe23515bcca60cd\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1505520145083f72409c17c05a3c3c96\transformed\jetified-lifecycle-service-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\0feba727926d806d21a9982434e6351f\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\781a718361caac3940bae10fb167fc4a\transformed\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\35e14d603f0822a42e521caf62fbdd55\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\69c31f46f587ea7c78c91db80d59d5c7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\b3fa3cb26a085400468854eec4361bb9\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\eb7db3355af671325c0f7369a6786f61\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\116b699a80925a8543dd3b9af64f714c\transformed\jetified-lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window:1.0.0-alpha09] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e0c52cdba282535f30a4aad872e49e96\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\daf798489f956e015f117c59ec988dae\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\c6f99992f3b7c972a41c956b34f24080\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\b1150d2bfa982c7503a7cc5db0e3f8bc\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\bc984277aa12f717ce71ac4356955048\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\ba73d79b5f753d0e15490f5470598984\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\b24be9c787e636fc85f909b2c168b646\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\eb878bbba75bc7f499ea6fdb48d0e0c6\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\2e4fe78c71f6ba5fe25b965827035c14\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\443eef45fb7416cc55896f6bfd3f5676\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\63bfdd88a215ca23e1db9b2b0cc0d394\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\b80439e82a3e280894d0640b8968a87a\transformed\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\bc13010dfa88bbff0059b80ee79c31df\transformed\navigation-common-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\20845d26ab1f9369f316340510ecdac6\transformed\navigation-common-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\5d674b4405c802a46c077ea0bfb2d18a\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\75e607fa57d002ad3caee6d93310f73c\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\3be2725302be251c061267d0a1e113c4\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\ff556601c4ad58bef717196bc4b42d46\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\01c433fbe8f30cc3513597ff2e97dc9e\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\0e857d4e4fda6f9b2764abaf2a382318\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.4.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\db638e511e007910ff5a89cdbf120025\transformed\jetified-tensorflow-lite-task-vision-0.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\b5cb69439882812d0f23847d6ad45b39\transformed\jetified-tensorflow-lite-gpu-delegate-plugin-0.4.0\AndroidManifest.xml:2:1-6:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\a4c3256ab950c67f2ae71a76f31ffe7b\transformed\jetified-tensorflow-lite-gpu-2.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\001b8f1e1a8265cb81726c7dc30d8656\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\3b036513d24dea33744dddc5435c18ab\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1f0a94032db31e6ed3acd86d6b55605c\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1201a5046b41e1dab9bddaf358d9ecfd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\c65b4fface7bb9b30a09971b134bfbf2\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\de6724211e610df9d164b9d1e9f90094\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\98da7fedbde843f46800c6b53379cf10\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1c19844ace29171837029a7854e0e2b6\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\ea682e5b8f31fd89fcfbf32ab980db71\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\0769a0bff07667c8264898608a4efdba\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\9266bb5f22de6d8d3e99a49f1dd71095\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\18c611fa1b83f60241b1f15a35c83249\transformed\jetified-tensorflow-lite-task-base-0.4.0\AndroidManifest.xml:2:1-6:12
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\89812db9c67ff70787670a0cbc44d4d1\transformed\jetified-tensorflow-lite-support-api-0.4.0\AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\c7d27465e6a116f3db92009b30625eaf\transformed\jetified-tensorflow-lite-api-2.8.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e03eab0d9bc5bc039008d9dac63d5c5d\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:21:5-59
+		INJECTED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:20:5-51
+	xmlns:dist
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:19:5-61
+	android:versionCode
+		INJECTED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:18:5-63
+dist:module
+ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:24:5-40
+	dist:instant
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:24:18-37
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:27:5-60
+	android:name
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:27:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:30:5-65
+	android:name
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:30:22-62
+application
+ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:32:5-62:19
+INJECTED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:32:5-62:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\4e3c8f3af897b20ad1dab7fa41ff2437\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\4e3c8f3af897b20ad1dab7fa41ff2437\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\57c8b7be9de44cda0af9792e67b6200c\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\57c8b7be9de44cda0af9792e67b6200c\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\39f42b2732ef917df058284b2d364558\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\39f42b2732ef917df058284b2d364558\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1510b2bb34cce64a6ec06ac17caa0e8e\transformed\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1510b2bb34cce64a6ec06ac17caa0e8e\transformed\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\0feba727926d806d21a9982434e6351f\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\0feba727926d806d21a9982434e6351f\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0-alpha09] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e0c52cdba282535f30a4aad872e49e96\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-alpha09] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e0c52cdba282535f30a4aad872e49e96\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\5d674b4405c802a46c077ea0bfb2d18a\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\5d674b4405c802a46c077ea0bfb2d18a\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\b5cb69439882812d0f23847d6ad45b39\transformed\jetified-tensorflow-lite-gpu-delegate-plugin-0.4.0\AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\b5cb69439882812d0f23847d6ad45b39\transformed\jetified-tensorflow-lite-gpu-delegate-plugin-0.4.0\AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\a4c3256ab950c67f2ae71a76f31ffe7b\transformed\jetified-tensorflow-lite-gpu-2.9.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\a4c3256ab950c67f2ae71a76f31ffe7b\transformed\jetified-tensorflow-lite-gpu-2.9.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1201a5046b41e1dab9bddaf358d9ecfd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1201a5046b41e1dab9bddaf358d9ecfd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\de6724211e610df9d164b9d1e9f90094\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\de6724211e610df9d164b9d1e9f90094\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\18c611fa1b83f60241b1f15a35c83249\transformed\jetified-tensorflow-lite-task-base-0.4.0\AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\18c611fa1b83f60241b1f15a35c83249\transformed\jetified-tensorflow-lite-task-base-0.4.0\AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\c7d27465e6a116f3db92009b30625eaf\transformed\jetified-tensorflow-lite-api-2.8.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\c7d27465e6a116f3db92009b30625eaf\transformed\jetified-tensorflow-lite-api-2.8.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e03eab0d9bc5bc039008d9dac63d5c5d\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e03eab0d9bc5bc039008d9dac63d5c5d\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+	android:extractNativeLibs
+		INJECTED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\5d674b4405c802a46c077ea0bfb2d18a\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:35:9-41
+	tools:ignore
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:38:9-35
+	android:roundIcon
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:34:9-54
+	android:icon
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:33:9-43
+	android:allowBackup
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:36:9-35
+	android:taskAffinity
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:37:9-32
+activity#org.tensorflow.lite.examples.objectdetection.MainActivity
+ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:40:9-60:20
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:42:13-45
+	android:exported
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:44:13-36
+	android:resizeableActivity
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:47:13-46
+	android:rotationAnimation
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:46:13-49
+	android:configChanges
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:48:13-91
+	tools:targetApi
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:49:13-32
+	android:icon
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:45:13-47
+	android:theme
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:41:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:52:13-55:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:54:27-74
+meta-data#android.notch_support
+ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:58:13-83
+	android:value
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:58:61-81
+	android:name
+		ADDED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:58:24-60
+uses-sdk
+INJECTED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:8.10.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\48401ae8320f6698cc8f26ee655df00e\transformed\databinding-adapters-8.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:8.10.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\48401ae8320f6698cc8f26ee655df00e\transformed\databinding-adapters-8.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.10.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\59fc4b39a96dd2b5443addfa44254533\transformed\jetified-databinding-ktx-8.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.10.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\59fc4b39a96dd2b5443addfa44254533\transformed\jetified-databinding-ktx-8.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.10.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\2677e6f0a0a0959a55f4c5bb95993e67\transformed\databinding-runtime-8.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.10.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\2677e6f0a0a0959a55f4c5bb95993e67\transformed\databinding-runtime-8.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.10.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\c3311def82b225fd474b3acc7390549e\transformed\jetified-viewbinding-8.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.10.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\c3311def82b225fd474b3acc7390549e\transformed\jetified-viewbinding-8.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\9f22cfec9c97cc2f0fbcf56034e0dd23\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\9f22cfec9c97cc2f0fbcf56034e0dd23\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\f8ad13114bd711b3e721f194cee70426\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\f8ad13114bd711b3e721f194cee70426\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\4e3c8f3af897b20ad1dab7fa41ff2437\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\4e3c8f3af897b20ad1dab7fa41ff2437\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\01ee066a187e3faf8fdb9f22b688cbd8\transformed\navigation-ui-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\01ee066a187e3faf8fdb9f22b688cbd8\transformed\navigation-ui-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1e3a25f6e9e672391a8b911890573cf8\transformed\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1e3a25f6e9e672391a8b911890573cf8\transformed\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\57c8b7be9de44cda0af9792e67b6200c\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\57c8b7be9de44cda0af9792e67b6200c\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-view:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\95d3377484eaad89ba4f25abedecdfc4\transformed\jetified-camera-view-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-view:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\95d3377484eaad89ba4f25abedecdfc4\transformed\jetified-camera-view-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\c46b7471018913cab4de46e5b572fab2\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\c46b7471018913cab4de46e5b572fab2\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\92742c05da82441e53f30b0b176f1291\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\92742c05da82441e53f30b0b176f1291\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\5acaed6e271ec8c8cf0bb9bffc0c3316\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\5acaed6e271ec8c8cf0bb9bffc0c3316\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\a02a2b3582249e57e59fb51c2eaeb97c\transformed\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\a02a2b3582249e57e59fb51c2eaeb97c\transformed\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\37e949600e9540b4643c81f28cc8d1f3\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\37e949600e9540b4643c81f28cc8d1f3\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\4c9981a42ff7cc653e7fb657cf4b5fc4\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\4c9981a42ff7cc653e7fb657cf4b5fc4\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\3bd7021b891e23481061c15ea3d15b2e\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\3bd7021b891e23481061c15ea3d15b2e\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\39f42b2732ef917df058284b2d364558\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\39f42b2732ef917df058284b2d364558\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\5cb811c9fd9b61edbdf8f13ba3c43e42\transformed\jetified-camera-lifecycle-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\5cb811c9fd9b61edbdf8f13ba3c43e42\transformed\jetified-camera-lifecycle-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1510b2bb34cce64a6ec06ac17caa0e8e\transformed\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1510b2bb34cce64a6ec06ac17caa0e8e\transformed\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\346a807ae0475b4d8050a8d1da5e826b\transformed\jetified-lifecycle-livedata-core-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\346a807ae0475b4d8050a8d1da5e826b\transformed\jetified-lifecycle-livedata-core-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\b12e3c88deb7dae501228661d38fbb6b\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\b12e3c88deb7dae501228661d38fbb6b\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\87b72628560faa077ce03f4a48f4ccd2\transformed\jetified-lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\87b72628560faa077ce03f4a48f4ccd2\transformed\jetified-lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\d9b2b6b242c33ba45fe23515bcca60cd\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\d9b2b6b242c33ba45fe23515bcca60cd\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1505520145083f72409c17c05a3c3c96\transformed\jetified-lifecycle-service-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1505520145083f72409c17c05a3c3c96\transformed\jetified-lifecycle-service-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\0feba727926d806d21a9982434e6351f\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\0feba727926d806d21a9982434e6351f\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\781a718361caac3940bae10fb167fc4a\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\781a718361caac3940bae10fb167fc4a\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\35e14d603f0822a42e521caf62fbdd55\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\35e14d603f0822a42e521caf62fbdd55\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\69c31f46f587ea7c78c91db80d59d5c7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\69c31f46f587ea7c78c91db80d59d5c7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\b3fa3cb26a085400468854eec4361bb9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\b3fa3cb26a085400468854eec4361bb9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\eb7db3355af671325c0f7369a6786f61\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\eb7db3355af671325c0f7369a6786f61\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\116b699a80925a8543dd3b9af64f714c\transformed\jetified-lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\116b699a80925a8543dd3b9af64f714c\transformed\jetified-lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.0.0-alpha09] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e0c52cdba282535f30a4aad872e49e96\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-alpha09] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e0c52cdba282535f30a4aad872e49e96\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\daf798489f956e015f117c59ec988dae\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\daf798489f956e015f117c59ec988dae\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\c6f99992f3b7c972a41c956b34f24080\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\c6f99992f3b7c972a41c956b34f24080\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\b1150d2bfa982c7503a7cc5db0e3f8bc\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\b1150d2bfa982c7503a7cc5db0e3f8bc\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\bc984277aa12f717ce71ac4356955048\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\bc984277aa12f717ce71ac4356955048\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\ba73d79b5f753d0e15490f5470598984\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\ba73d79b5f753d0e15490f5470598984\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\b24be9c787e636fc85f909b2c168b646\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\b24be9c787e636fc85f909b2c168b646\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\eb878bbba75bc7f499ea6fdb48d0e0c6\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\eb878bbba75bc7f499ea6fdb48d0e0c6\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\2e4fe78c71f6ba5fe25b965827035c14\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\2e4fe78c71f6ba5fe25b965827035c14\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\443eef45fb7416cc55896f6bfd3f5676\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\443eef45fb7416cc55896f6bfd3f5676\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\63bfdd88a215ca23e1db9b2b0cc0d394\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\63bfdd88a215ca23e1db9b2b0cc0d394\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\b80439e82a3e280894d0640b8968a87a\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\b80439e82a3e280894d0640b8968a87a\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\bc13010dfa88bbff0059b80ee79c31df\transformed\navigation-common-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\bc13010dfa88bbff0059b80ee79c31df\transformed\navigation-common-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\20845d26ab1f9369f316340510ecdac6\transformed\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\20845d26ab1f9369f316340510ecdac6\transformed\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\5d674b4405c802a46c077ea0bfb2d18a\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\5d674b4405c802a46c077ea0bfb2d18a\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\75e607fa57d002ad3caee6d93310f73c\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\75e607fa57d002ad3caee6d93310f73c\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\3be2725302be251c061267d0a1e113c4\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\3be2725302be251c061267d0a1e113c4\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\ff556601c4ad58bef717196bc4b42d46\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\ff556601c4ad58bef717196bc4b42d46\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\01c433fbe8f30cc3513597ff2e97dc9e\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\01c433fbe8f30cc3513597ff2e97dc9e\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\0e857d4e4fda6f9b2764abaf2a382318\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\0e857d4e4fda6f9b2764abaf2a382318\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.4.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\db638e511e007910ff5a89cdbf120025\transformed\jetified-tensorflow-lite-task-vision-0.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.4.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\db638e511e007910ff5a89cdbf120025\transformed\jetified-tensorflow-lite-task-vision-0.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\a4c3256ab950c67f2ae71a76f31ffe7b\transformed\jetified-tensorflow-lite-gpu-2.9.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\a4c3256ab950c67f2ae71a76f31ffe7b\transformed\jetified-tensorflow-lite-gpu-2.9.0\AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\001b8f1e1a8265cb81726c7dc30d8656\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\001b8f1e1a8265cb81726c7dc30d8656\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\3b036513d24dea33744dddc5435c18ab\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\3b036513d24dea33744dddc5435c18ab\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1f0a94032db31e6ed3acd86d6b55605c\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1f0a94032db31e6ed3acd86d6b55605c\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1201a5046b41e1dab9bddaf358d9ecfd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1201a5046b41e1dab9bddaf358d9ecfd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\c65b4fface7bb9b30a09971b134bfbf2\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\c65b4fface7bb9b30a09971b134bfbf2\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\de6724211e610df9d164b9d1e9f90094\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\de6724211e610df9d164b9d1e9f90094\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\98da7fedbde843f46800c6b53379cf10\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\98da7fedbde843f46800c6b53379cf10\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1c19844ace29171837029a7854e0e2b6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1c19844ace29171837029a7854e0e2b6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\ea682e5b8f31fd89fcfbf32ab980db71\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\ea682e5b8f31fd89fcfbf32ab980db71\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\0769a0bff07667c8264898608a4efdba\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\0769a0bff07667c8264898608a4efdba\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\9266bb5f22de6d8d3e99a49f1dd71095\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\9266bb5f22de6d8d3e99a49f1dd71095\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\89812db9c67ff70787670a0cbc44d4d1\transformed\jetified-tensorflow-lite-support-api-0.4.0\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\89812db9c67ff70787670a0cbc44d4d1\transformed\jetified-tensorflow-lite-support-api-0.4.0\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\c7d27465e6a116f3db92009b30625eaf\transformed\jetified-tensorflow-lite-api-2.8.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\c7d27465e6a116f3db92009b30625eaf\transformed\jetified-tensorflow-lite-api-2.8.0\AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e03eab0d9bc5bc039008d9dac63d5c5d\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e03eab0d9bc5bc039008d9dac63d5c5d\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\39f42b2732ef917df058284b2d364558\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:26:9-35:19
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1510b2bb34cce64a6ec06ac17caa0e8e\transformed\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:31:9-35:78
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\1510b2bb34cce64a6ec06ac17caa0e8e\transformed\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:31:9-35:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\39f42b2732ef917df058284b2d364558\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:31:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\39f42b2732ef917df058284b2d364558\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:28:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\39f42b2732ef917df058284b2d364558\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:29:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\39f42b2732ef917df058284b2d364558\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:30:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\39f42b2732ef917df058284b2d364558\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:27:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\39f42b2732ef917df058284b2d364558\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:32:13-34:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\39f42b2732ef917df058284b2d364558\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:34:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\39f42b2732ef917df058284b2d364558\transformed\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:33:17-103
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\0feba727926d806d21a9982434e6351f\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\de6724211e610df9d164b9d1e9f90094\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\de6724211e610df9d164b9d1e9f90094\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\0feba727926d806d21a9982434e6351f\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\0feba727926d806d21a9982434e6351f\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\0feba727926d806d21a9982434e6351f\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\0feba727926d806d21a9982434e6351f\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:25:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\0feba727926d806d21a9982434e6351f\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\0feba727926d806d21a9982434e6351f\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\0feba727926d806d21a9982434e6351f\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-alpha09] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e0c52cdba282535f30a4aad872e49e96\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-alpha09] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e0c52cdba282535f30a4aad872e49e96\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-alpha09] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e0c52cdba282535f30a4aad872e49e96\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-alpha09] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e0c52cdba282535f30a4aad872e49e96\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-alpha09] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e0c52cdba282535f30a4aad872e49e96\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-alpha09] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e0c52cdba282535f30a4aad872e49e96\transformed\jetified-window-1.0.0-alpha09\AndroidManifest.xml:29:13-51
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:17:1-64:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:17:1-64:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Bruno Calazans\Downloads\android\android\app\src\main\AndroidManifest.xml:17:1-64:12 reason: tensorflow_lite_support.acceleration.configuration requested WRITE_EXTERNAL_STORAGE
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Bruno Calazans\.gradle\caches\8.11.1\transforms\e77909a090237906f453765673a00dec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
